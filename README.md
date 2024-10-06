@@ -38,7 +38,7 @@ This will start the development server, and you can view the app in your browser
 
 
 ## Folder Structure
-
+```
 gericht-restaurant/
 ├── public/
 │   ├── index.html
@@ -53,3 +53,4 @@ gericht-restaurant/
 │   └── App.css
 ├── package.json
 └── README.md
+```
